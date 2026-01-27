@@ -33,7 +33,6 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v6
         with:
-          cache-dependency-path: subdir/package-lock.json
           node-version: lts/*
           cache: 'npm'
       - name: Install dependencies
