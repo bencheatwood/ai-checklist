@@ -10,6 +10,6 @@ _Sheets? Schmeats._
   
 ---
 
-Suggestions or issues: [Post an issue]([https://github.com/orgs/skills/discussions/categories/github-pages](https://github.com/bencheatwood/ai-checklist/issues)) &bull
+Suggestions or issues: [Post an issue](https://github.com/bencheatwood/ai-checklist/issues)
 
 </footer>
